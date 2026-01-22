@@ -546,8 +546,8 @@
         <mxCell id="3pxzpux9TXgRhVrlBEww-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cam N" vertex="1">
           <mxGeometry height="40" width="60" x="-1305" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="3pxzpux9TXgRhVrlBEww-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;USB 2.0&amp;nbsp;&lt;/b&gt;&lt;div&gt;(serial baud 921600)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="130" x="-1605" y="715" as="geometry" />
+        <mxCell id="3pxzpux9TXgRhVrlBEww-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;USB 2.0 Serial&lt;/b&gt;&lt;div&gt;(baud 921600)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-1585" y="716" as="geometry" />
         </mxCell>
         <mxCell id="3pxzpux9TXgRhVrlBEww-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="MIPI CSI2&lt;div&gt;(v4l2 cams)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="-1400" y="775" as="geometry" />
@@ -736,7 +736,7 @@
         <mxCell id="3pxzpux9TXgRhVrlBEww-194" edge="1" parent="1" source="3pxzpux9TXgRhVrlBEww-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3pxzpux9TXgRhVrlBEww-150">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1345" y="310" />
+              <mxPoint x="-1325" y="310" />
               <mxPoint x="-1445" y="310" />
               <mxPoint x="-1445" y="430" />
             </Array>
@@ -748,7 +748,7 @@
         <mxCell id="3pxzpux9TXgRhVrlBEww-196" edge="1" parent="1" source="3pxzpux9TXgRhVrlBEww-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3pxzpux9TXgRhVrlBEww-150">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1275" y="310" />
+              <mxPoint x="-1255" y="310" />
               <mxPoint x="-1445" y="310" />
               <mxPoint x="-1445" y="430" />
             </Array>
@@ -770,7 +770,25 @@
           <mxGeometry height="30" width="70" x="-1465" y="280" as="geometry" />
         </mxCell>
         <mxCell id="3pxzpux9TXgRhVrlBEww-202" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="USB 3.0" vertex="1">
-          <mxGeometry height="30" width="70" x="-1215" y="270" as="geometry" />
+          <mxGeometry height="30" width="70" x="-1245" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3pxzpux9TXgRhVrlBEww-203" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MEMS&lt;div&gt;IMU&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="-1714" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="3pxzpux9TXgRhVrlBEww-204" edge="1" parent="1" source="3pxzpux9TXgRhVrlBEww-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.023;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" target="3pxzpux9TXgRhVrlBEww-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3pxzpux9TXgRhVrlBEww-205" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="SPI" vertex="1">
+          <mxGeometry height="30" width="40" x="-1661" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="3pxzpux9TXgRhVrlBEww-206" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="30" x="-1305" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3pxzpux9TXgRhVrlBEww-207" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="30" x="-1495" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3pxzpux9TXgRhVrlBEww-208" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="30" x="-1215" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
