@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="페이지-1" id="ncyv84cJfIY1-y2rfgSU">
-    <mxGraphModel dx="6283" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5166" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1203,8 +1203,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-3313" y="310" />
-              <mxPoint x="-3433" y="310" />
-              <mxPoint x="-3433" y="430" />
+              <mxPoint x="-3420" y="310" />
+              <mxPoint x="-3420" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1492,9 +1492,13 @@
         <mxCell id="d1Bkrgr7HAt3fW65PmNF-202" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF80;" value="Wi-Fi&lt;div&gt;or Eth&lt;/div&gt;" vertex="1">
           <mxGeometry x="-2988" y="485" as="geometry" />
         </mxCell>
-        <mxCell id="d1Bkrgr7HAt3fW65PmNF-207" edge="1" parent="1" source="d1Bkrgr7HAt3fW65PmNF-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="d1Bkrgr7HAt3fW65PmNF-1" value="">
+        <mxCell id="d1Bkrgr7HAt3fW65PmNF-207" edge="1" parent="1" source="d1Bkrgr7HAt3fW65PmNF-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="d1Bkrgr7HAt3fW65PmNF-24" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="-3243" y="310" />
+              <mxPoint x="-3420" y="310" />
+              <mxPoint x="-3420" y="430" />
+            </Array>
             <mxPoint x="-3243" y="260" as="sourcePoint" />
             <mxPoint x="-3503" y="430" as="targetPoint" />
           </mxGeometry>
